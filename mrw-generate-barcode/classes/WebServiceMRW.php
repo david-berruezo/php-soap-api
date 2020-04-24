@@ -15,7 +15,7 @@ class WebServiceMRW
     private $DepartamentoMRW    = '';
     private $usuarioMRW         = '';
     private $PasswordMRW        = '';
-    // http://sagec-test.mrw.es/Panel.aspx?Franq=00613&Ab=022302&Dep=22302-ALM&Pwd=SG000613OFIPRIX&Usr=SG000613OFIPRIX&NumEnv=006130100519
+    
 
     public function __construct()
     {
@@ -80,7 +80,6 @@ class WebServiceMRW
     }
 
     
-
     // setters and getters
     
     /**
