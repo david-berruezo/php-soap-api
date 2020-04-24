@@ -1,0 +1,16 @@
+{
+    "name": "soap/webservice",
+    "description": "Soap Webservice to connect to mrw\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C PHP to \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bto connect to webservice",
+    "authors": [
+        {
+            "name": "davidberruezo",
+            "email": "davidberruezo@davidberruezo.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "classes\\":"classes/"
+        }
+    }
+}

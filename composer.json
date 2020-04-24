@@ -1,0 +1,11 @@
+{
+    "name": "soap/webservice",
+    "description": "Example Soap to connect to webservice",
+    "require": {},
+    "authors": [
+        {
+            "name": "davidberruezo",
+            "email": "davidberruezo@davidberruezo.com"
+        }
+    ]
+}
